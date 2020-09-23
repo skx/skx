@@ -5,4 +5,5 @@
 * I believe in the value of Open Source software, and run Linux upon all the systems I control.
 * My current interests revolve around compilers, interpreters, domain-specific languages, and virtual machines.
   * These are great tools for large-scale automation, which is useful in my career as a system administrator and/our devops-engineer.
-  
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=skx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
