@@ -7,5 +7,5 @@
   * These are great tools for large-scale automation, which is useful in my career as a system administrator and/our devops-engineer.
 
 <div align="center">
-[![github stats](https://github-readme-stats.vercel.app/api?username=skx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=skx&show_icons=true" alt="Github Activity">
 </div>
