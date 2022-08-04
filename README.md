@@ -4,7 +4,8 @@
   * Most of my new projects are written in Golang.
   * But also I've been writing code in Z80 assembly language, to run under CP/M and the humble ZX Spectrum 48k.
 * My interests primarily revolve around compilers, interpreters, domain-specific languages, and virtual machines.
-  * These are great tools for large-scale automation, etc.
+  * Examples of scripting languages include a [simple BASIC](https://github.com/skx/gobasic), a [simple FORTH](https://github.com/skx/foth), a [simple Lisp](https://github.com/skx/yal), and a [simple TCL](https://github.com/skx/critical/).
+  * DSLs are great tools for automation, etc.
 * Location: Helsinki, Finland.
 * Occupation: Sysadmin / Devops / Cloud-person.
 
