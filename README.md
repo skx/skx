@@ -6,10 +6,11 @@
 * My interests primarily revolve around compilers, interpreters, domain-specific languages, and virtual machines.
   * Examples of scripting languages include a [simple BASIC](https://github.com/skx/gobasic), a [simple FORTH](https://github.com/skx/foth), a [simple Lisp](https://github.com/skx/yal), and a [simple TCL](https://github.com/skx/critical/).
   * DSLs are great tools for automation, etc.
-* Other interests involve retro programming and projects.
-  * Primarily based around the Z80 processor, for example [this CP/M emulator](https://github.com/skx/cpmulator), [the lighthouse of doom](https://github.com/skx/lighthouse-of-doom/), a text adventure game for the ZX Spectrum, etc.
+* I'm also interested in retro programming/projects, primarily based around the Z80 processor.
+  * For example [this CP/M emulator](https://github.com/skx/cpmulator), [the lighthouse of doom](https://github.com/skx/lighthouse-of-doom/) text adventure for the ZX Spectrum, etc.
 * Location: Helsinki, Finland.
 * Occupation: Sysadmin / Devops / Cloud-person.
+  * I'm explicitly not a coder, nor a developer.
 
 
 
