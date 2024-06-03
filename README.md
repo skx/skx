@@ -6,8 +6,16 @@
 * My interests primarily revolve around compilers, interpreters, domain-specific languages, and virtual machines.
   * Examples of scripting languages include a [simple BASIC](https://github.com/skx/gobasic), a [simple FORTH](https://github.com/skx/foth), a [simple Lisp](https://github.com/skx/yal), and a [simple TCL](https://github.com/skx/critical/).
   * DSLs are great tools for automation, etc.
+* Other interests involve retro programming and projects.
+  * Primarily based around the Z80 processor, for example [this CP/M emulator](https://github.com/skx/cpmulator), [the lighthouse of doom](https://github.com/skx/lighthouse-of-doom/), a text adventure game for the ZX Spectrum, etc.
 * Location: Helsinki, Finland.
 * Occupation: Sysadmin / Devops / Cloud-person.
+
+
+
+## Surveys & Email Harvesting
+
+I explicitly do not consent to receiving your "research surveys", or other contact generated via email scraping of the Github service.  Such contact will always be followed up with.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=skx&show_icons=true" alt="Github Activity">
