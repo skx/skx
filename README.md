@@ -23,6 +23,14 @@ Overview:
 
 I explicitly do not consent to receiving your "research surveys", or other contact generated via email scraping of the Github service.  Such contact will always be followed up with.
 
+
+## Jobs and Recruitment
+
+I program for fun, I am not a professional software developer and nor do I wish to become one.
+
+My occupation is "syadmin", cloud engineer, devops engineer, or something similar.
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=skx&show_icons=true" alt="Github Activity">
 </div>
