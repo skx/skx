@@ -27,6 +27,7 @@ Such contact will always be followed up with.
 
 This includes job offers, programming competitions, surveys, offers to promote, reward, review, or rank open-source software.
 
+If you pretend that you **didn't** automatically harvest my email address from this site, or one of my projects, but an actual human person found my profile and go in touch?  This notice applies _especially_ to you.
 
 
 ## Jobs and Recruitment
