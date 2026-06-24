@@ -13,7 +13,7 @@ Overview:
   * Most of my personal projects are written in Golang and Rust.
 * My interests primarily revolve around compilers, interpreters, domain-specific languages, and virtual machines.
   * Examples of scripting languages include a [simple BASIC](https://github.com/skx/gobasic), a [simple FORTH](https://github.com/skx/foth), a [simple Lisp](https://github.com/skx/yal), and a [simple TCL](https://github.com/skx/critical/).
-  * I've also implemented several compilers, including [s-lang](https://github.com/skx/s-lang/) which compiles programs into static linux/amd64 binaries with no external dependencies.
+  * I've also implemented several compilers, including [s-lang](https://github.com/skx/s-lang/) which compiles programs into static linux/amd64 binaries with no external dependencies, and a similar compiler for Lisp named [slisp](https://github.com/skx/slisp).
   * DSLs are great tools for automation, etc.
 * I'm also interested in retro programming/projects, primarily based around the Z80 processor.
   * This includes Z80 assembly language programming, either for CP/M or the ZX Spectrum 48k.
